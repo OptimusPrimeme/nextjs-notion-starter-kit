@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'reaper',
-  domain: 'suan0fbieat.cf',
+  domain: 'reaper.suan0fbieat.cf',
   author: 'reaper',
 
   // open graph metadata (optional)
